@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"/>
 
     <Button
-        android:text="clickMe"
+        android:text="click me"
         android:id="@+id/ok"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
